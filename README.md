@@ -21,5 +21,3 @@ This is a Flask web application that:
 - Simple web interface with Flask
 
 ---
-
-## Project Structure
